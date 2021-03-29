@@ -1,0 +1,15 @@
+body {
+ background-image: url("../images/fornax.jpg");
+ background-repeat; no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ font-family: Monaco;
+ color: #c0ffee;
+}
+/* Colour Palette
+Aero Blue -> "c0ffee"; 192, 255, 238
+Yale Blue -> "064789"; 6, 71, 137
+Persian Orange -> "dc965a"; 220, 150, 90
+Caput Mortuum -> "561d25"; 86, 29, 37
+Fern Green -> "50723c"; 80, 114, 60
+*/
